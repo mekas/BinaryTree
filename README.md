@@ -15,4 +15,4 @@ Your task is fulfilling all todo in
 2. main.rs
 3. tool/mod.rs
 
-To debug the tree, you need to complete todo in tool/mod.rs. Which will implement the tree in [graphviz dot language](https://graphviz.org/doc/info/lang.html). The dot notation is relatively straightforward and easy to understand. 
+To debug the tree, you need to complete todo in tool/mod.rs. Which will implement the tree in [graphviz dot language](https://graphviz.org/doc/info/lang.html). The dot notation is relatively straightforward and easy to understand. In fact you don't need to illustrate the graph in a drawing, just output them to dot graphviz notation as a model.
